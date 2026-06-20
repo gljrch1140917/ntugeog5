@@ -9,7 +9,7 @@
 啊～Ya-Ju's 微積分教室：https://www.youtube.com/@yjtsaimath
 
 ## 課程資料 
-- [PDF 資料夾](pdf/)
+- [植物講義](plants1.pdf.pdf)
 
 ## 作業
 - [作業資料夾](assignments/)
