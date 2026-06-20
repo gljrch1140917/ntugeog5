@@ -10,39 +10,40 @@
 ## 課程資料
 
 #### Week 2
-- [GIS Course Introduction](gis_W2_GIS Course introduction.pdf)
-- [GIS Geographical Concept](gis_W2_GIS Geographical concept.pdf)
-- [Map History](gis_W2_Map history.pdf)
+- [GIS Course Introduction](gis_W2_GIS_Course_introduction.pdf)
+- [GIS Geographical Concept](gis_W2_GIS_Geographical_concept.pdf)
+- [Map History](gis_W2_Map_history.pdf)
 
 #### Week 3
-- [Geographic Information](gis_W3_Geographic information.pdf)
-- [Map Composition](gis_W3_Map composition.pdf)
+- [Geographic Information](gis_W3_Geographic_information.pdf)
+- [Map Composition](gis_W3_Map_composition.pdf)
 
 #### Week 4
 - [GIS Coordinates](gis_W4_GIS_Coordinates.pdf)
 - [Map Projection](gis_W4_Map_Projection.pdf)
 
 #### Week 5
-- [Geographic Representation](gis_W5_Geographic representation.pdf)
+- [Geographic Representation](gis_W5_Geographic_representation.pdf)
+- [Map Thematic Maps](gis_W5_Map_Thematic_maps.pdf)
 
 #### Week 7
-- [GIS Attribute Data](gis_W7_GIS Attribute data.pdf)
-- [Map Thematic Maps 2](gis_W7_Map_Thematic maps 2.pdf)
+- [GIS Attribute Data](gis_W7_GIS_Attribute_data.pdf)
+- [Map Thematic Maps 2](gis_W7_Map_Thematic_maps_2.pdf)
 
 #### Week 11
-- [GIS Geoprocessing](gis_W11_GIS Geoprocessing.pdf)
-- [Map Color](gis_W11_Map Color.pdf)
+- [GIS Geoprocessing](gis_W11_GIS_Geoprocessing.pdf)
+- [Map Color](gis_W11_Map_Color.pdf)
 
 #### Week 12
-- [GIS Spatial Interpolation](gis_W12_GIS Spatial interpolation.pdf)
-- [Map Design](gis_W12_Map Design.pdf)
+- [GIS Spatial Interpolation](gis_W12_GIS_Spatial_interpolation.pdf)
+- [Map Design](gis_W12_Map_Design.pdf)
 
 #### Week 13
-- [GIS Terrain Analysis](gis_W13_GIS Terrain analysis.pdf)
-- [Map Terrain Representation](gis_W13_Map Terrain representation.pdf)
+- [GIS Terrain Analysis](gis_W13_GIS_Terrain_analysis.pdf)
+- [Map Terrain Representation](gis_W13_Map_Terrain_representation.pdf)
 
 #### Week 14
-- [GIS GIScience](gis_W14_GIS GIScience.pdf)
+- [GIS GIScience](gis_W14_GIS_GIScience.pdf)
 
 ## 作業
 
