@@ -11,6 +11,6 @@
 
 
 ## 作業
-- [HW1](HW1_B14208015.ipynb)
-- [HW2](HW2_B14208015.ipynb)
-- [HW3](HW3_B14208015.ipynb)
+- [HW1](HW1.html)
+- [HW2](HW2.html)
+- [HW3](HW3.html)
