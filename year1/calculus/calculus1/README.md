@@ -6,7 +6,7 @@
 
 ## 課程說明
 微積分的預習&複習大推雅如的頻道(裡面的影片都是他的上課內容)
-啊~~Ya-Ju's 微積分教室:https://www.youtube.com/@yjtsaimath
+啊~~Ya-Ju's微積分教室:https://www.youtube.com/@yjtsaimath
 
 ## 課程資料 
 - [PDF 資料夾](pdf/)
