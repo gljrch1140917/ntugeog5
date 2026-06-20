@@ -27,8 +27,8 @@
 - [Map Thematic Maps-1](gis_W5_Map_Thematic_maps.pdf)
 
 #### Week 7
-- [GIS Attribute Data](gis_W7_GIS_Attribute_data.pdf)
 - [Map Thematic Maps-2](gis_W7_Map_Thematic_maps_2.pdf)
+- [GIS Attribute Data](gis_W7_GIS_Attribute_data.pdf)
 
 #### Week 11
 - [GIS Geoprocessing](gis_W11_GIS_Geoprocessing.pdf)
