@@ -24,11 +24,11 @@
 
 #### Week 5
 - [Geographic Representation](gis_W5_Geographic_representation.pdf)
-- [Map Thematic Maps](gis_W5_Map_Thematic_maps.pdf)
+- [Map Thematic Maps-1](gis_W5_Map_Thematic_maps.pdf)
 
 #### Week 7
 - [GIS Attribute Data](gis_W7_GIS_Attribute_data.pdf)
-- [Map Thematic Maps 2](gis_W7_Map_Thematic_maps_2.pdf)
+- [Map Thematic Maps-2](gis_W7_Map_Thematic_maps_2.pdf)
 
 #### Week 11
 - [GIS Geoprocessing](gis_W11_GIS_Geoprocessing.pdf)
