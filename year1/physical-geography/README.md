@@ -7,7 +7,7 @@
 ## 課程說明
 
 ## 課程資料 
-
+- [W1](physicalgeography-Introduction.pptx)
 
 ## 作業
 - [HW1](physicalgeography-HW1.pdf)
