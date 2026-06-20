@@ -29,4 +29,6 @@
 - [SEC.4.7-4.9](calculus1-SEC.4.7-4.9.pdf)
 
 ## 作業
-- [作業資料夾](assignments/)
+- [WS1](calculus1-WS1.pdf)
+- [WS2](calculus1-WS2.pdf)
+- [WS3](calculus1-WS3.pdf)
