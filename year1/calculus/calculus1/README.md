@@ -9,7 +9,24 @@
 啊～Ya-Ju's 微積分教室：https://www.youtube.com/@yjtsaimath
 
 ## 課程資料 
-- [植物講義](plants1.pdf.pdf)
+- [SEC.2.1-2.2](calculus1-SEC.2.1-2.2.pdf)
+- [SEC.2.3](calculus1-SEC.2.3.pdf)
+- [SEC.2.5](calculus1-SEC.2.5.pdf)
+- [SEC.2.6](calculus1-SEC.2.6.pdf)
+- [SEC.2.7-2.8](calculus1-SEC.2.7-2.8.pdf)
+- [SEC.3.1-3.2](calculus1-SEC.3.1-3.2.pdf)
+- [SEC.3.3](calculus1-SEC.3.3.pdf)
+- [SEC.3.4](calculus1-SEC.3.4.pdf)
+- [SEC.3.5](calculus1-SEC.3.5.pdf)
+- [SEC.3.6](calculus1-SEC.3.6.pdf)
+- [SEC.3.8](calculus1-SEC.3.8.pdf)
+- [SEC.3.10](calculus1-SEC.3.10.pdf)
+- [SEC.4.1](calculus1-SEC.4.1.pdf)
+- [SEC.4.2](calculus1-SEC.4.2.pdf)
+- [SEC.4.3](calculus1-SEC.4.3.pdf)
+- [SEC.4.4](calculus1-SEC.4.4.pdf)
+- [SEC.4.5](calculus1-SEC.4.5.pdf)
+- [SEC.4.7-4.9](calculus1-SEC.4.7-4.9.pdf)
 
 ## 作業
 - [作業資料夾](assignments/)
