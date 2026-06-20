@@ -6,8 +6,7 @@
 
 ## 課程說明
 微積分的預習與複習大推蔡堆如老師的頻道，頻道中的影片大多為課堂內容錄影，適合課前預習與考前複習。<br>
-啊～Ya-Ju's 微積分教室：  
-https://www.youtube.com/@yjtsaimath
+啊～Ya-Ju's 微積分教室：https://www.youtube.com/@yjtsaimath
 
 ## 課程資料 
 - [PDF 資料夾](pdf/)
