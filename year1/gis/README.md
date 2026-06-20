@@ -46,4 +46,4 @@
 - [GIS GIScience](gis_W14_GIS_GIScience.pdf)
   
 ## 作業
-- [WS1](calculus1-WS1.pdf)
+
